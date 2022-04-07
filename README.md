@@ -1,3 +1,3 @@
 # Projects
 
-This folder contains all of my academic projetcs.
+This folder contains all of my academic projects.
